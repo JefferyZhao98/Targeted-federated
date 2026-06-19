@@ -1,4 +1,4 @@
-# Targeted-federated
+# A New Targeted-Federated Learning Framework for Estimating HTEs
 
 R code for the manuscript "A New Targeted-Federated Learning Framework for Estimating Heterogeneity of Treatment Effects: A Robust Framework with Applications in Aging Cohorts".
 
